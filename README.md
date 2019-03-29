@@ -16,4 +16,5 @@ The tool will compare the 2 branches and output a file with the format of `outpu
 
 ## Special Thanks
 [nchardet](https://github.com/bibaoke/NChardet)
+
 [Diff Patch and Match](https://github.com/google/diff-match-patch)
